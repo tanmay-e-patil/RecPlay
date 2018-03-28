@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RecPlay</string>
+    <string name="listen">Listen</string>
+    <string name="record">Record</string>
+    <string name="hear">Hear</string>
+    <string name="stop">Stop</string>
 </resources>
